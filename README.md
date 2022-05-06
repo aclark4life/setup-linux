@@ -60,10 +60,6 @@ Just a few more steps! Hang in there.
 
 Install the Firefox [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager). 
 
-```console
-brew install --cask firefox
-```
-
 ### Dotfiles
 
 Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal access token from [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
