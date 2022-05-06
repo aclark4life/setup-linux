@@ -6,7 +6,7 @@ In just a few easy steps! Kidding. Never easy enough, but not too bad either.
 
 ### Debian 11
 
-Installed via DVD.
+Install Debian 11 via DVD.
 
 ### APT
 
