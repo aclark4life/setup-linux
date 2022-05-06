@@ -44,12 +44,12 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ## Python
 
-Third, install Python via pipx dependency then use pipx to install dotfiles and checkoutmanager.
+Third, install `pipx`.
 
 ```console
-brew install pipx
-.local/bin/pipx install dotfiles
-.local/bin/pipx install checkoutmanager
+pip3 install pipx
+pipx install dotfiles
+pipx install checkoutmanager
 ```
 
 ## Everything Else
