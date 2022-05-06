@@ -92,6 +92,12 @@ nvm install 14
 nvm use 14
 ```
 
+#### GitHub
+
+```
+brew install gh
+```
+
 ## More Steps
 
 OK, I lied! More steps.
