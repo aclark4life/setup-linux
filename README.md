@@ -10,7 +10,7 @@ Install Debian 11 via DVD.
 
 ### APT
 
-Update sources.
+Update `/etc/apt/sources.list`.
 
 ```
 deb http://deb.debian.org/debian/ bullseye main contrib non-free
