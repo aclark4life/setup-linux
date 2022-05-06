@@ -75,7 +75,6 @@ Update dotfiles and repositories defined in [.checkoutmanager.cfg](https://githu
 ![screenshot](screenshot.png)
 
 ```console
-pipx install checkoutmanager
 up
 ```
 
