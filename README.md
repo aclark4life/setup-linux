@@ -82,8 +82,12 @@ up
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql.sh)"
-su - postgres
-createuser -r -s alexclark
+```
+
+#### nvm
+
+```
+brew install nvm
 ```
 
 ## More Steps
