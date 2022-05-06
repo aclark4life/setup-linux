@@ -22,7 +22,8 @@ deb http://deb.debian.org/debian/ bullseye-backports main contrib non-free
 Install additional packages.
 
 ```
-apt install build-essential fortune python3-pip python3-venv
+apt update
+apt install -y build-essential curl fortune neovim python3-pip python3-venv task-kde-desktop zsh
 ```
 
 ## Homebrew
