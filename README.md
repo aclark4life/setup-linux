@@ -4,8 +4,25 @@ In just a few easy steps! Kidding. Never easy enough, but not too bad either.
 
 ## Prerequisites
 
+### Debian 11
+
+Installed via DVD.
+
+### APT
+
+Update sources.
+
 ```
-apt install build-essential
+deb http://deb.debian.org/debian/ bullseye main contrib non-free
+deb http://security.debian.org/ bullseye-security main contrib
+deb http://deb.debian.org/debian/ bullseye-updates main contrib non-free
+deb http://deb.debian.org/debian/ bullseye-backports main contrib non-free
+```
+
+Install additional packages.
+
+```
+apt install build-essential fortune python3-pip python3-venv
 ```
 
 ## Homebrew
