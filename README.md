@@ -84,10 +84,12 @@ up
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql.sh)"
 ```
 
-#### nvm
+#### Node
 
 ```
 brew install nvm
+nvm install 14
+nvm use 14
 ```
 
 ## More Steps
