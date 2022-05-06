@@ -78,6 +78,12 @@ Update dotfiles and repositories defined in [.checkoutmanager.cfg](https://githu
 up
 ```
 
+#### Postgresql
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql.sh)"
+```
+
 ## More Steps
 
 OK, I lied! More steps.
