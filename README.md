@@ -31,6 +31,7 @@ apt install -y build-essential \
                linux-image-5.16.0-0.bpo.3-amd64 \
                neovim \
                nfs-common \
+               pavucontrol \
                python3-pip \
                python3-venv \
                task-kde-desktop \
