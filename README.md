@@ -2,9 +2,7 @@
 
 In just a few easy steps!
 
-Kidding.
-
-Never easy enough, but not too bad either.
+Kidding. Never easy enough, but not too bad either.
 
 ## Prerequisites
 
@@ -108,7 +106,7 @@ OK, I lied! More steps.
 
 ### Audio
 
-Add kernel configuration (via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module)
+Add kernel configuration via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module.
 
 ```
 echo "options snd_usb_audio vid=0x1235 pid=0x8212 device_setup=1" > /etc/modprobe.d/scarlett.conf
