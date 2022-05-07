@@ -114,6 +114,8 @@ OK, I lied! More steps.
 
 ### sudo
 
+`visudo` as root, add:
+
 ```
 alexclark ALL=(ALL) NOPASSWD: ALL
 ```
