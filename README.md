@@ -109,3 +109,9 @@ Upgrade kernel to get Focusrite drivers.
 ```
 apt install linux-image-5.16.0-0.bpo.3-amd64
 ```
+
+Add custom configuration (via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module)
+
+```
+echo "options snd_usb_audio vid=0x1235 pid=0x8212 device_setup=1" > /etc/modprobe.d/scarlett.conf
+```
