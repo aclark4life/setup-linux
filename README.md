@@ -111,3 +111,28 @@ Add kernel configuration via https://github.com/Focusrite-Scarlett-on-Linux/soun
 ```
 echo "options snd_usb_audio vid=0x1235 pid=0x8212 device_setup=1" > /etc/modprobe.d/scarlett.conf
 ```
+
+### System Preferences
+                                     
+Click your way to the finish.
+
+![systemsettings](systemsettings.png)
+
+#### Accessibility
+
+- Zoom → ☑︎ Use scroll gesture with modifier keys to zoom: [^Control]
+
+#### Battery
+
+- Battery → Turn display off after [Never]
+- Battery → ☐ Slightly dim the display when on battery power
+- Battery → ☐ Enable Power Nap while on battery power
+- Power Adapter → Turn display off after [Never]
+- Power Adapter → ☐ Enable Power Nap while plugged into a power adapter
+
+#### Bluetooth
+
+- ☑︎ Show Bluetooth in menu bar
+
+#### Desktop & Screen Saver
+
