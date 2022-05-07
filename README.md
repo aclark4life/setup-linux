@@ -30,6 +30,7 @@ apt install -y build-essential \
                fortune \
                linux-image-5.16.0-0.bpo.3-amd64 \
                neovim \
+               nfs-common \
                python3-pip \
                python3-venv \
                task-kde-desktop \
