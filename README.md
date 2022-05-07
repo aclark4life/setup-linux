@@ -112,6 +112,12 @@ brew install gh
 
 OK, I lied! More steps.
 
+### sudo
+
+```
+alexclark ALL=(ALL) NOPASSWD: ALL
+```
+
 ### Audio
 
 Add kernel configuration via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module.
