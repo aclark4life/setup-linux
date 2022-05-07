@@ -120,6 +120,14 @@ OK, I lied! More steps.
 alexclark ALL=(ALL) NOPASSWD: ALL
 ```
 
+### nfs
+
+Add to `/etc/fstab`:
+
+```
+192.168.1.2:/Volumes/Technics   /technics       nfs     noauto  0       0
+```
+
 ### Audio
 
 Add kernel configuration via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module.
