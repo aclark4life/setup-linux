@@ -135,4 +135,3 @@ Click your way to the finish.
 - ☑︎ Show Bluetooth in menu bar
 
 #### Desktop & Screen Saver
-
