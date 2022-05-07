@@ -25,7 +25,15 @@ Install additional packages.
 
 ```
 apt update
-apt install -y build-essential curl fortune linux-image-5.16.0-0.bpo.3-amd64 neovim python3-pip python3-venv task-kde-desktop zsh
+apt install -y build-essential \
+               curl \
+               fortune \
+               linux-image-5.16.0-0.bpo.3-amd64 \
+               neovim \
+               python3-pip \
+               python3-venv \
+               task-kde-desktop \
+               zsh
 ```
 
 ## Homebrew
