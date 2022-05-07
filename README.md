@@ -102,3 +102,10 @@ brew install gh
 
 OK, I lied! More steps.
 
+### Audio
+
+Upgrade kernel to get Focusrite drivers.
+
+```
+apt install linux-image-5.16.0-0.bpo.3-amd64
+```
