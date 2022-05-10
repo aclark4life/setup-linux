@@ -37,6 +37,7 @@ apt install -y build-essential \
                pavucontrol \
                python3-pip \
                python3-venv \
+               qsynth \
                task-kde-desktop \
                zsh
 ```
