@@ -38,6 +38,9 @@ apt install -y build-essential \
                python3-pip \
                python3-venv \
                qsynth \
+               qasconfig \
+               qashctl \
+               qasmixer \
                task-kde-desktop \
                zsh
 ```
