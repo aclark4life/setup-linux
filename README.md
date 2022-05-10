@@ -28,7 +28,9 @@ apt update
 apt install -y build-essential \
                bsdmainutils \
                curl \
+               fluidsynth \
                fortune \
+               hydrogen \
                linux-image-5.16.0-0.bpo.3-amd64 \
                neovim \
                nfs-common \
