@@ -25,7 +25,8 @@ Install additional packages.
 
 ```
 apt update
-apt install -y build-essential \
+apt install -y ardour \
+               build-essential \
                bsdmainutils \
                curl \
                fluidsynth \
