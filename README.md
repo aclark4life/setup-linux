@@ -26,6 +26,7 @@ Install additional packages.
 ```
 apt update
 apt install -y build-essential \
+               bsdmainutils \
                curl \
                fortune \
                linux-image-5.16.0-0.bpo.3-amd64 \
