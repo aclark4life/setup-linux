@@ -1,4 +1,4 @@
 readme-edit:
-	vi README.md
+	nvim README.md
 readme-open:
 	gh browse
