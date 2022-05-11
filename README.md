@@ -29,6 +29,7 @@ apt install -y ardour \
                blueman \
                build-essential \
                bsdmainutils \
+	       cmus \
                curl \
                fluidsynth \
                fortune \
