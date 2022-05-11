@@ -81,7 +81,7 @@ Just a few more steps! Hang in there.
 
 ### Firefox + LastPass + React
 
-Install the Firefox [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager) and the [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
+Install the Firefox [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager) and [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
 
 ### Dotfiles
 
