@@ -26,6 +26,7 @@ Install additional packages.
 ```
 apt update
 apt install -y ardour \
+               blueman \
                build-essential \
                bsdmainutils \
                curl \
