@@ -45,6 +45,7 @@ apt install -y ardour \
                qashctl \
                qasmixer \
                task-kde-desktop \
+	       whois \
                xfishtank \
                zsh
 ```
