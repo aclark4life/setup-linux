@@ -36,6 +36,7 @@ apt install -y ardour \
                hydrogen \
                linux-image-5.16.0-0.bpo.3-amd64 \
 	       multimedia-midi \
+	       multimedia-mixing \
                neovim \
                nfs-common \
                pavucontrol \
