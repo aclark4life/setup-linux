@@ -74,8 +74,10 @@ Third, install `pipx`.
 
 ```console
 pip3 install pipx
-pipx install dotfiles
-pipx install checkoutmanager
+.local/bin/pipx install awscli
+.local/bin/pipx install awsebcli
+.local/bin/pipx install dotfiles
+.local/bin/pipx install checkoutmanager
 ```
 
 ## Everything Else
