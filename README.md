@@ -15,7 +15,7 @@ Install Debian 12.
 Install additional packages.
 
 ```console
-apt install -y build-essential \
+sudo apt install -y build-essential \
                bsdmainutils \
                curl \
                fortune \
