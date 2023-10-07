@@ -16,16 +16,16 @@ Install additional packages.
 
 ```console
 sudo apt install -y build-essential \
-               bsdmainutils \
-               curl \
-               fortune \
-               nfs-common \
-               python3-pip \
-               python3-venv \
-               python3-pipx \
-	       whois \
-               xfishtank \
-               zsh
+                    bsdmainutils \
+                    curl \
+                    fortune-mod \
+                    nfs-common \
+                    python3-pip \
+                    python3-venv \
+                    pipx \
+	            whois \
+                    xfishtank \
+                    zsh
 ```
 
 ## Oh My Zsh
