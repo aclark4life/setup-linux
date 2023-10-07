@@ -18,7 +18,6 @@ Install additional packages.
 sudo apt install -y build-essential \
                     bsdmainutils \
                     curl \
-                    fortune-mod \
                     nfs-common \
                     python3-pip \
                     python3-venv \
