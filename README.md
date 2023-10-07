@@ -38,7 +38,7 @@ sudo apt install -y build-essential \
 ```
 
 
-### Homebrew
+### brew
 
 ```console
 brew install fortune gh nvm
