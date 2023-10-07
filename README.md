@@ -2,7 +2,7 @@
 
 In just a few easy steps!
 
-Kidding. Never easy enough but not too bad either.
+Kidding! Never easy enough, but not too bad either.
 
 ## Prerequisites
 
