@@ -20,7 +20,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ## Additional packages
 
-Third, install additional packages
+Third, install additional packages via apt, brew and pipx.
 
 ### apt
 
@@ -41,7 +41,7 @@ sudo apt install -y build-essential \
 ### Homebrew
 
 ```console
-brew install fortune nvm
+brew install fortune gh nvm
 ```
 
 ### pipx
@@ -91,12 +91,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 ```
 nvm install 14
 nvm use 14
-```
-
-#### GitHub
-
-```
-brew install gh
 ```
 
 ## More Steps
