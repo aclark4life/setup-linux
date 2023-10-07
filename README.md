@@ -29,11 +29,13 @@ sudo apt install -y build-essential \
 
 ## Homebrew
 
-Install additional packages.
+Install Homebrew.
 
 ```console
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+Install additional packages.
 
 ```console
 brew install fortune
@@ -47,18 +49,13 @@ Install Oh My ZSH.
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
+# pipx
 
-
-## pipx
-
-Third, install `pipx`.
+Install additional packages.
 
 ```console
-pip3 install pipx
-.local/bin/pipx install awscli
-.local/bin/pipx install awsebcli
-.local/bin/pipx install dotfiles
-.local/bin/pipx install checkoutmanager
+pipx install dotfiles
+pipx install checkoutmanager
 ```
 
 ## Everything Else
