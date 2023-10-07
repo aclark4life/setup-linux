@@ -14,8 +14,7 @@ Install Debian 12.
 
 Install additional packages.
 
-```
-apt update
+```console
 apt install -y build-essential \
                bsdmainutils \
                curl \
@@ -29,21 +28,22 @@ apt install -y build-essential \
                zsh
 ```
 
+## Oh My Zsh
+
+Install Oh My ZSH.
+
+```console
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
 ## Homebrew
 
-First, install Homebrew.
+Install Homebrew.
 
 ```console
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## Oh My Zsh
-
-Second, install Oh My ZSH.
-
-```console
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
 
 ## pipx
 
