@@ -6,47 +6,24 @@ Kidding. Never easy enough but not too bad either.
 
 ## Prerequisites
 
-### Debian 11
+### Debian 12
 
-Install Debian 11 via DVD.
+Install Debian 12. 
 
 ### APT
-
-Update `/etc/apt/sources.list`.
-
-```
-deb http://deb.debian.org/debian/ bullseye main contrib non-free
-deb http://security.debian.org/ bullseye-security main contrib
-deb http://deb.debian.org/debian/ bullseye-updates main contrib non-free
-deb http://deb.debian.org/debian/ bullseye-backports main contrib non-free
-```
 
 Install additional packages.
 
 ```
 apt update
-apt install -y ardour \
-               blueman \
-               build-essential \
+apt install -y build-essential \
                bsdmainutils \
-	       cmus \
                curl \
-               fluidsynth \
                fortune \
-               hydrogen \
-               linux-image-5.16.0-0.bpo.3-amd64 \
-	       multimedia-midi \
-	       multimedia-mixing \
-               neovim \
                nfs-common \
-               pavucontrol \
                python3-pip \
                python3-venv \
-               qsynth \
-               qasconfig \
-               qashctl \
-               qasmixer \
-               task-kde-desktop \
+               python3-pipx \
 	       whois \
                xfishtank \
                zsh
