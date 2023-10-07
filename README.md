@@ -41,14 +41,6 @@ Install additional packages.
 brew install fortune
 ```
 
-## Oh My Zsh
-
-Install Oh My ZSH.
-
-```console
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
 # pipx
 
 Install additional packages.
@@ -56,6 +48,14 @@ Install additional packages.
 ```console
 pipx install dotfiles
 pipx install checkoutmanager
+```
+
+## Oh My Zsh
+
+Install Oh My ZSH.
+
+```console
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
 ## Everything Else
