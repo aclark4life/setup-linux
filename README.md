@@ -38,7 +38,7 @@ Install Homebrew.
 Install additional packages.
 
 ```console
-brew install fortune
+brew install fortune nvm
 ```
 
 # pipx
@@ -92,7 +92,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 #### Node
 
 ```
-brew install nvm
 nvm install 14
 nvm use 14
 ```
