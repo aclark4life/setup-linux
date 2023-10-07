@@ -1,18 +1,28 @@
-# Setup Linux
+# Setup Linux (Debian 12)
 
-In just a few easy steps!
+In just a few easy steps! Kidding. Never easy enough, but not too bad either.
 
-Kidding! Never easy enough, but not too bad either.
+## Homebrew
 
-## Prerequisites
+First, install Homebrew.
 
-### Debian 12
+```console
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-Install Debian 12. 
+## Oh My Zsh
 
-### APT
+Second, install Oh My ZSH.
 
-Install additional packages.
+```console
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+## Additional packages
+
+Third, install additional packages
+
+### apt
 
 ```console
 sudo apt install -y build-essential \
@@ -27,38 +37,25 @@ sudo apt install -y build-essential \
                     zsh
 ```
 
-## Homebrew
 
-Install Homebrew.
-
-```console
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-Install additional packages.
+### Homebrew
 
 ```console
 brew install fortune nvm
 ```
 
-# pipx
-
-Install additional packages.
+### pipx
 
 ```console
 pipx install dotfiles
 pipx install checkoutmanager
 ```
 
-## Oh My Zsh
+## Everything Else
 
-Install Oh My ZSH.
+Just a few more steps! Hang in there.
 
-```console
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-## Dotfiles
+### Dotfiles
 
 Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal access token from [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
 
@@ -66,7 +63,7 @@ Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal acces
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
 ```
 
-## Firefox
+### Firefox
 
 Install add-ons.
 
