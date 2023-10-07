@@ -27,6 +27,18 @@ sudo apt install -y build-essential \
                     zsh
 ```
 
+## Homebrew
+
+Install additional packages.
+
+```console
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+```console
+brew install fortune
+```
+
 ## Oh My Zsh
 
 Install Oh My ZSH.
@@ -35,13 +47,6 @@ Install Oh My ZSH.
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-## Homebrew
-
-Install Homebrew.
-
-```console
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
 
 
 ## pipx
