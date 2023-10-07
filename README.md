@@ -58,21 +58,20 @@ Install Oh My ZSH.
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-## Everything Else
-
-Just a few more steps! Hang in there.
-
-### Firefox + LastPass + React
-
-Install the Firefox [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager) and [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
-
-### Dotfiles
+## Dotfiles
 
 Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal access token from [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
 
 ```console
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
 ```
+
+## Firefox
+
+Install add-ons.
+
+- [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
 
 ### Developer
 
