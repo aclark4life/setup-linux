@@ -84,37 +84,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 nvm install 14
 nvm use 14
 ```
-
-### sudo
-
-`visudo` as root, add:
-
-```
-alexclark ALL=(ALL) NOPASSWD: ALL
-```
-
-### nfs
-
-Add to `/etc/fstab`:
-
-```
-192.168.1.2:/Volumes/Technics   /technics       nfs     noauto  0       0
-```
-
-### Audio
-
-Add kernel configuration via https://github.com/Focusrite-Scarlett-on-Linux/sound-usb-kernel-module.
-
-```
-echo "options snd_usb_audio vid=0x1235 pid=0x8212 device_setup=1" > /etc/modprobe.d/scarlett.conf
-```
-
-### System Preferences
-                                     
-Click your way to the finish.
-
-![systemsettings](systemsettings.png)
-
-#### Appearance
-
-- Global Theme → Breeze Dark
