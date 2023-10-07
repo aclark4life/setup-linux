@@ -70,17 +70,9 @@ Install add-ons.
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
 
-### Developer
+## Developer
 
-Update dotfiles and repositories defined in [.checkoutmanager.cfg](https://github.com/reinout/checkoutmanager/blob/master/checkoutmanager/sample.cfg) via ``up`` alias.
-
-![screenshot](screenshot.png)
-
-```console
-up
-```
-
-#### Postgresql
+### Postgresql
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql.sh)"
@@ -92,10 +84,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 nvm install 14
 nvm use 14
 ```
-
-## More Steps
-
-OK, I lied! More steps.
 
 ### sudo
 
