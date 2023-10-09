@@ -33,7 +33,7 @@ brew install pipx
 
 ## Everything Else
 
-Just a few more steps! Hang in there.
+Just a few more steps! Not really but hang in there.
 
 ### Firefox
 
