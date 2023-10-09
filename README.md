@@ -55,3 +55,5 @@ Just a few more steps! Not really, but hang in there.
 ### Settings
 
 - Privacy → Screen Lock → ☐ Automatic Screen Lock
+- Mouse & Touchpad → ☑︎ Natural Scrolling 
+- Mouse & Touchpad → ☑︎ Tap to Click
