@@ -50,7 +50,8 @@ Just a few more steps! Not really, but hang in there.
 
 ### Terminal
 
-- Preferences → Profiles → Unnamed → ☑︎ Custom font → Monospace → 16
+- Preferences → Profiles → Unnamed → Text Appearance → ☑︎ Custom font → Monospace → 16
+- Preferences → Profiles → Unnamed → Sound → ☐ Terminal bell
 
 ### Settings
 
