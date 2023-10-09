@@ -36,7 +36,7 @@ brew install pipx
 
 ## Dotfiles
 
-Requires dotfiles and GitHub Personal access token via [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens)
+Requires dotfiles and [GitHub Personal access token](https://github.com/settings/tokens)
 
 ```console
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
