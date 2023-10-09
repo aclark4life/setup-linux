@@ -31,6 +31,7 @@ brew install pipx
 ## Firefox
 
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- [Gnome Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 ## Dotfiles
@@ -44,3 +45,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 ## Everything Else
 
 Just a few more steps! Not really, but hang in there.
+
+### Settings
+
+#### Terminal
+
+- Preferences → Profiles → Unnamed → ☑︎ Custom font → Monospace → 16
+
+
