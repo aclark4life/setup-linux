@@ -31,7 +31,7 @@ brew install pipx
 ## Firefox
 
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 ## Dotfiles
 
