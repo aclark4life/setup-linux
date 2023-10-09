@@ -57,3 +57,8 @@ Just a few more steps! Not really, but hang in there.
 - Privacy → Screen Lock → ☐ Automatic Screen Lock
 - Mouse & Touchpad → ☑︎ Natural Scrolling 
 - Mouse & Touchpad → ☑︎ Tap to Click
+
+### Tweaks
+
+- Window Titlebars → Titlebar Buttons → ☑︎ Maximize
+- Window Titlebars → Titlebar Buttons → ☑︎ Minimize
