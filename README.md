@@ -48,10 +48,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 
 Just a few more steps! Not really, but hang in there.
 
-### Settings
-
-#### Terminal
+### Terminal
 
 - Preferences → Profiles → Unnamed → ☑︎ Custom font → Monospace → 16
 
+### Settings
 
+- Privacy → Screen Lock → ☐ Automatic Screen Lock
