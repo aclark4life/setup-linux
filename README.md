@@ -24,11 +24,8 @@ Third, install Python with Homebrew via pipx dependency and use pipx to install 
 
 ```console
 brew install pipx
-.local/bin/pipx install awscli
-.local/bin/pipx install awsebcli
 .local/bin/pipx install dotfiles
 .local/bin/pipx install checkoutmanager
-.local/bin/pipx install gcalcli
 ```
 
 ## Everything Else
