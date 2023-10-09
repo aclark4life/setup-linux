@@ -18,9 +18,9 @@ Second, install Oh My ZSH.
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-## Python
+## pipx
 
-Third, install Python with Homebrew via pipx dependency and use pipx to install dotfiles and checkoutmanager.
+Third, install pipx use pipx to install dotfiles and checkoutmanager.
 
 ```console
 brew install pipx
