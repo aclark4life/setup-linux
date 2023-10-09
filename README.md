@@ -70,3 +70,4 @@ Just a few more steps! Not really, but hang in there.
 - ☑︎ [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
 - ☑︎ [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 - ☑︎ [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- ☑︎ [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
