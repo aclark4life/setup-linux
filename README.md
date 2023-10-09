@@ -1,4 +1,4 @@
-# Setup macOS
+# Setup Linux
 
 In just a few easy steps! Kidding. Never easy enough, but not too bad either.
 
@@ -20,7 +20,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ## Python
 
-Third, install Python via pipx dependency then use pipx to install dotfiles and checkoutmanager.
+Third, install Python with Homebrew via pipx dependency and use pipx to install dotfiles and checkoutmanager.
 
 ```console
 brew install pipx
@@ -35,7 +35,7 @@ brew install pipx
 
 Just a few more steps! Hang in there.
 
-### Firefox + LastPass
+### Firefox
 
 Install Firefox then install the [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager).
 
