@@ -28,10 +28,6 @@ brew install pipx
 .local/bin/pipx install checkoutmanager
 ```
 
-## Everything Else
-
-Just a few more steps! Not really, but hang in there.
-
 ### Firefox
 
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
@@ -45,3 +41,6 @@ Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal acces
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
 ```
 
+## Everything Else
+
+Just a few more steps! Not really, but hang in there.
