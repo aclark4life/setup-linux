@@ -66,3 +66,4 @@ Just a few more steps! Not really, but hang in there.
 ### Extensions
 
 - ☑︎ Dash to Dock
+- ☑︎ [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
