@@ -69,3 +69,4 @@ Just a few more steps! Not really, but hang in there.
 - ☑︎ Dash to Dock
 - ☑︎ [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
 - ☑︎ [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+- ☑︎ [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
