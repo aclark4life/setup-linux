@@ -28,12 +28,12 @@ brew install pipx
 .local/bin/pipx install checkoutmanager
 ```
 
-### Firefox
+## Firefox
 
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
 
-### Dotfiles
+## Dotfiles
 
 Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal access token from [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
 
