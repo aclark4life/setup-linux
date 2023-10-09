@@ -30,6 +30,8 @@ brew install pipx
 
 ## Firefox
 
+Install extensions.
+
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [Gnome Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
