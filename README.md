@@ -1,4 +1,4 @@
-# Setup Linux
+# Setup Linux (Rocky)
 
 In just a few easy steps! Kidding. Never easy enough, but not too bad either.
 
@@ -37,47 +37,23 @@ Just a few more steps! Hang in there.
 
 ### Firefox
 
-Install Firefox then install the [LastPass Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager).
-
-```console
-brew install --cask firefox
-```
+- [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).
 
 ### Dotfiles
 
 Requires [dotfiles](https://pypi.org/project/dotfiles) and GitHub Personal access token from [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
 
 ```console
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-macos/main/dotfiles.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
 ```
 
 ### Developer
 
-Update dotfiles and repositories defined in [.checkoutmanager.cfg](https://github.com/reinout/checkoutmanager/blob/master/checkoutmanager/sample.cfg) via ``up`` alias.
-
-![screenshot](screenshot.png)
-
-```console
-pipx install checkoutmanager
-up
-```
 
 ## More Steps
 
 OK, I lied! More steps.
-
-### Homebrew
-
-```
-make brew-bundle
-make brew-services
-```
-
-### User Defaults
-
-```
-make defaults-write
-```
 
 ### System Preferences
 
@@ -165,4 +141,3 @@ Click your way to the finish.
 
 - Window Size → Columns → 120
 - Window Size → Rows → 36
-
