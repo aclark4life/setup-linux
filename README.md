@@ -62,3 +62,7 @@ Just a few more steps! Not really, but hang in there.
 
 - Window Titlebars → Titlebar Buttons → ☑︎ Maximize
 - Window Titlebars → Titlebar Buttons → ☑︎ Minimize
+
+### Extensions
+
+- ☑︎ Dash to Dock
