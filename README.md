@@ -20,7 +20,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ## pipx
 
-Third, install pipx use pipx to install dotfiles and checkoutmanager.
+Third, install pipx use it to install dotfiles and checkoutmanager.
 
 ```console
 brew install pipx
