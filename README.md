@@ -32,10 +32,7 @@ brew install pipx
 
 Install extensions.
 
-- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [Gnome Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
-- [Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 ## Dotfiles
@@ -69,7 +66,10 @@ Just a few more steps! Not really, but hang in there.
 ### Extensions
 
 - ☑︎ Dash to Dock
+- ☑︎ [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - ☑︎ [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
 - ☑︎ [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
-- ☑︎ [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- ☑︎ [Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/)
+- ☑︎ [Gnome Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
 - ☑︎ [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
+- ☑︎ [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
