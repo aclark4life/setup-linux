@@ -32,8 +32,10 @@ brew install pipx
 
 Install extensions.
 
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Bitwarden Password Manager Add-On](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [Gnome Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
+- [Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/)
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 ## Dotfiles
