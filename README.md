@@ -51,6 +51,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/ma
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql-rocky.sh)"
 ```
 
+```console
+sudo su - postgres
+createuser -r -s alexclark
+```
+
 ## Everything Else
 
 Just a few more steps! Not really, but hang in there.
