@@ -43,6 +43,14 @@ Requires dotfiles and [Personal access token](https://github.com/settings/tokens
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/dotfiles.sh)"
 ```
 
+## Developer
+
+### Postgresql
+
+```console
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aclark4life/setup-linux/main/postgresql-rocky.sh)"
+```
+
 ## Everything Else
 
 Just a few more steps! Not really, but hang in there.
